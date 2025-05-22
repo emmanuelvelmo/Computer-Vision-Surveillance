@@ -1,5 +1,5 @@
 # Computer Vision Surveillance
-A computer vision software for surveillance
+A computer vision device for surveillance
 
 <p align="left">
   <strong>-</strong>
